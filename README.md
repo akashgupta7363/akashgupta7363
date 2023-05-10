@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Akash Kr Gupta</h1>
+<h1 align="center">Hi <img width="50" src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" alt=""/>, I'm Akash Kr Gupta</h1>
 <h3 align="center">A passionate and crazy Full Stack Software Developer 🚀 who wants to explore every tech stack</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="left" alt="Coding" width="600" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashgupta7363&label=Profile%20views&color=0e75b6&style=flat" alt="akashgupta7363" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akashgupta7363&label=Profile%20views&color=0e75b6&style=flat" alt="akashgupta7363" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashgupta7363" alt="akashgupta7363" /></a> </p>
 
