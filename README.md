@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/akash_gupta_7" target="blank"><img src="https://img.shields.io/twitter/follow/akash_gupta_7?logo=twitter&style=for-the-badge" alt="akash_gupta_7" /></a> </p>
 
--  I do fullstack and a bit of everything heart
+-  I do fullstack and a bit of everything
 -  🔭 I’m currently working on [Tutor's Den](https://github.com/akashgupta7363/Tutor-s-Den)
 
 - 🌱 I’m currently learning **Typescript, Nextjs**
