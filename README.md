@@ -1,18 +1,18 @@
 <h1 align="center">Hey there <img width="50" src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" alt=""/>, Welcome to my profile</h1>
 <h2 align="center">I'm Akash Kr Gupta</h2>
 <h3 align="center">A passionate and crazy Full Stack Software Developer 🚀 who wants to explore every tech stack</h3>
-<img align="left" alt="Coding" width="600" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="left" alt="Coding" width="600" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://github.com/akashgupta7363/akashgupta7363/blob/main/techstack.gif)">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akashgupta7363&label=Profile%20views&color=0e75b6&style=flat" alt="akashgupta7363" /> </p>
 <div align="center">
   <!--START_SECTION:waka-->
 
 ```text
-TypeScript   14 hrs 21 mins  ██████████████████▒░░░░░░   72.85 %
-JSON         4 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.91 %
-JavaScript   53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+JavaScript   6 hrs 21 mins   ██████████████████▒░░░░░░   52.85 %
+TypeScript   4 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   40.91 %
+CSS          2 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
 HTML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 ```
 
 <!--END_SECTION:waka-->
