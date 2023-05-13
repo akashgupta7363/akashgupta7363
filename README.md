@@ -1,10 +1,12 @@
 <h1 align="center">Hey there <img width="50" src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" alt=""/>, Welcome to my profile</h1>
 <h2 align="center">I'm Akash Kr Gupta</h2>
 <h3 align="center">A passionate and crazy Full Stack Software Developer 🚀 who wants to explore every tech stack</h3>
-<img align="left" alt="Coding" width="600" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://github.com/akashgupta7363/akashgupta7363/blob/main/techstack.gif)">
+<img  align="left" alt="Coding" width="500" height="300" src="https://github.com/akashgupta7363/akashgupta7363/blob/main/techstack.gif?raw=true" style="margin-right: 30px" >
+<br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akashgupta7363&label=Profile%20views&color=0e75b6&style=flat" alt="akashgupta7363" /> </p>
-<div align="center">
+
+<div align="right" width="100" height="700" >
   <!--START_SECTION:waka-->
 
 ```text
@@ -16,11 +18,16 @@ Other        4 mins          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
   </div>
+  <br /><br /><br /><br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashgupta7363" alt="akashgupta7363" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/akash_gupta_7" target="blank"><img src="https://img.shields.io/twitter/follow/akash_gupta_7?logo=twitter&style=for-the-badge" alt="akash_gupta_7" /></a> </p>
+<br />
+
+<div align="left"> <a href="https://twitter.com/akash_gupta_7" target="blank"><img src="https://img.shields.io/twitter/follow/akash_gupta_7?logo=twitter&style=for-the-badge" alt="akash_gupta_7" /></a> </div>
+
+
 
 -  I do fullstack and a bit of everything
 -  i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
@@ -56,6 +63,8 @@ Other        4 mins          ░░░░░░░░░░░░░░░░░
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashgupta7363&show_icons=true&locale=en" alt="akashgupta7363" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashgupta7363&" alt="akashgupta7363" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashgupta7363" alt="akashgupta7363" /></a> </p>
 
 <br />
 
