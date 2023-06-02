@@ -30,13 +30,12 @@ Other        4 mins          ░░░░░░░░░░░░░░░░░
 
 
 -  I do fullstack and a bit of everything
--  i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
--  🔭 I’m currently working on [Tutor's Den](https://github.com/akashgupta7363/Tutor-s-Den)
-
-- 🌱 I’m currently learning **Typescript**
+-  I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 - I manage my entire life on Notion and reading a lot of newsletters and books. 
 - From design to development I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices. 
 - Following best practices early on is the way to go and I'm a huge supporter of it.
+- 🌱 I’m currently learning **Typescript**
+- 🔭 I’m currently working on [Tutor's Den](https://github.com/akashgupta7363/Tutor-s-Den)
 
 - 👯 I’m looking to collaborate on [Tutor's Den](https://github.com/akashgupta7363/Tutor-s-Den)
 
