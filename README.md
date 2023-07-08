@@ -1,6 +1,6 @@
 <h1 align="center">Hey there <img width="50" src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" alt=""/>, Welcome to my profile</h1>
 <h2 align="center">I'm Akash Kr Gupta</h2>
-<h3 align="center">A passionate and crazy Full Stack Developer 🚀 who wants to explore every tech stack</h3>
+<h3 align="center">A passionate  and crazy Full Stack Developer 🚀 who wants to explore every tech stack</h3>
 <img  align="left" alt="Coding" width="500" height="300" src="https://github.com/akashgupta7363/akashgupta7363/blob/main/techstack.gif?raw=true" style="margin-right: 30px" >
 <br/>
 
